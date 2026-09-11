@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if used)
+node_modules/
+npm-debug.log
+
+# Python (if used)
+__pycache__/
+*.pyc
+.env
+
+# Temporary files
+*.tmp
+*.bak
