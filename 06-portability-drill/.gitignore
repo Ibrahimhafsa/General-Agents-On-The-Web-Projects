@@ -1,0 +1,18 @@
+# Project 6: The Portability Drill
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.log
