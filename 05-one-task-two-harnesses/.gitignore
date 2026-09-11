@@ -1,0 +1,5 @@
+# Ignore test artifacts and temporary files
+harness-comparison-test.txt
+*.tmp
+*.log
+.DS_Store
