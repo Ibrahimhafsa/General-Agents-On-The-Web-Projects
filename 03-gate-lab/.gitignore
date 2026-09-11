@@ -1,0 +1,33 @@
+# Project 3: The Gate Lab
+# Ignore local test artifacts and temporary files
+
+# Environment and configuration
+.env
+.env.local
+*.key
+*.pem
+
+# Temporary and cache files
+*.tmp
+.cache/
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if applicable)
+node_modules/
+package-lock.json
+
+# Build and dist directories
+dist/
+build/
+out/
+
+# Log files
+*.log
+npm-debug.log*
